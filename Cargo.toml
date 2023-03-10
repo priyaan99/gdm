@@ -1,2 +1,6 @@
 [workspace]
-members = ["vec_rotation"]
+
+ members = [
+  "vec_rotation",
+  "vec_dot",
+]
